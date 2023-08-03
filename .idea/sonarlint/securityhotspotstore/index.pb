@@ -3,9 +3,6 @@ L
 common/common-domain/pom.xml,3\e\3ebe72cff67b25b3f376cc963b57146cc5d43487
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-:
-
-.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 €
 Porder-service/order-domain/order-domain-core/src/main/java/org/example/Main.java,e\3\e386c542c94358fcef7b59ed9a29e815922e1376
 R
@@ -14,8 +11,6 @@ R
 Lcommon/common-domain/src/main/java/org/example/domain/entity/BaseEntity.java,d\d\dd3adb2dc79b5d57ff28680dd8948b9650be329d
 
 Ocommon/common-domain/src/main/java/org/example/domain/entity/AggregateRoot.java,b\9\b9b705affb926f5c5a027ee7ebec357cc8c7ff09
-l
-<order-service/order-domain/order-application-service/pom.xml,7\8\788638a3f575d9e226f07937dfe43f5e87b6139f
 >
 common/pom.xml,4\8\488bdbea7e8b73c44bd2a54e63f6012f10969196
 ˆ
