@@ -41,10 +41,6 @@ r
 Border-service/order-dataaccess/src/main/java/org/example/Main.java,4\3\43ec2a3198aa1a98916ba41016cc3daa01930bd7
 |
 Lcommon/common-domain/src/main/java/org/example/domain/event/DomainEvent.java,b\c\bc5f4b03af8e77d6f8b16d0315b36c9ac6a8d7c6
-Å
-Qcommon/common-domain/src/main/java/org/example/domain/valueobject/CustomerId.java,8\e\8ef01c2053a79c24fafe5f7043d9097770184f63
-É
-Scommon/common-domain/src/main/java/org/example/domain/valueobject/RestaurantId.java,f\f\fffc72658263bbda8c19bbdb42314b7b8d91e6ca
 d
 4order-service/order-domain/order-domain-core/pom.xml,e\2\e2c9ec2a77daaaa98761010294a2cfad7cd6acdd
 ì
@@ -76,13 +72,9 @@ iorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/O
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
 ï
 eorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/OrderDomainService.java,2\4\24a454fb12cbec6a41ca52a7d03daa0cae6eee46
-ë
-aorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/entity/Product.java,1\2\12b35f325b5e092944cf85c614c98696d1f896c1
 Ñ
 Tcommon/common-domain/src/main/java/org/example/domain/valueobject/PaymentStatus.java,f\4\f42755b244fba520cfcd5fcb82f7ba97bfb30a6e
 l
 <order-service/order-domain/order-application-service/pom.xml,7\8\788638a3f575d9e226f07937dfe43f5e87b6139f
 Ç
 Rcommon/common-domain/src/main/java/org/example/domain/valueobject/OrderStatus.java,1\f\1fe1ff3b3b7a11b60edd3e6aba85d9f1145023d5
-Ä
-Pcommon/common-domain/src/main/java/org/example/domain/valueobject/ProductId.java,5\5\552dbb67a781c0c6bb8e845f24f55f9a62f9a66c

@@ -39,10 +39,6 @@ q
 Aorder-service/order-container/src/main/java/org/example/Main.java,2\6\261f0d26eabaf635da75820d2a5427469f5bf02b
 E
 order-service/pom.xml,d\3\d3bf53ecc442740843266a635cbfe9807b992566
-Å
-Qcommon/common-domain/src/main/java/org/example/domain/valueobject/CustomerId.java,8\e\8ef01c2053a79c24fafe5f7043d9097770184f63
-É
-Scommon/common-domain/src/main/java/org/example/domain/valueobject/RestaurantId.java,f\f\fffc72658263bbda8c19bbdb42314b7b8d91e6ca
 |
 Lcommon/common-domain/src/main/java/org/example/domain/event/DomainEvent.java,b\c\bc5f4b03af8e77d6f8b16d0315b36c9ac6a8d7c6
 d
@@ -71,8 +67,6 @@ iorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/O
 eorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/OrderDomainService.java,2\4\24a454fb12cbec6a41ca52a7d03daa0cae6eee46
 ì
 corder-service/order-domain/order-domain-core/src/main/java/org/example/domain/event/OrderEvent.java,e\2\e26846dedc0995c41ca861551d1d675d24ea86e4
-ë
-aorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/entity/Product.java,1\2\12b35f325b5e092944cf85c614c98696d1f896c1
 î
 dorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/entity/Restaurant.java,0\5\059ffa2c8b145aa46ef5dc91e3088e4d9be879d8
 :
@@ -84,5 +78,3 @@ l
 <order-service/order-domain/order-application-service/pom.xml,7\8\788638a3f575d9e226f07937dfe43f5e87b6139f
 Ç
 Rcommon/common-domain/src/main/java/org/example/domain/valueobject/OrderStatus.java,1\f\1fe1ff3b3b7a11b60edd3e6aba85d9f1145023d5
-Ä
-Pcommon/common-domain/src/main/java/org/example/domain/valueobject/ProductId.java,5\5\552dbb67a781c0c6bb8e845f24f55f9a62f9a66c
