@@ -3,6 +3,7 @@ package org.example.domain.mapper;
 import org.example.domain.dto.create.CreateOrderCommand;
 import org.example.domain.dto.create.CreateOrderResponse;
 import org.example.domain.dto.create.OrderAddress;
+import org.example.domain.dto.track.TrackOrderResponse;
 import org.example.domain.entity.Order;
 import org.example.domain.entity.OrderItem;
 import org.example.domain.entity.Product;
@@ -40,6 +41,14 @@ public class OrderDataMapper {
         return CreateOrderResponse.builder()
                 .orderTrackingId(order.getTrackingId().getValue())
                 .orderStatus(order.getStatus())
+                .build();
+    }
+
+    public TrackOrderResponse orderToTrackOrderResponse(Order order) {
+        return TrackOrderResponse.builder()
+                .orderTrackingId(order.getTrackingId().getValue())
+                .orderStatus(order.getStatus())
+                .failureMessages(order.getFailureMessages())
                 .build();
     }
 
