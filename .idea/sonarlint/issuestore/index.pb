@@ -35,8 +35,6 @@ U
 %order-service/order-messaging/pom.xml,c\1\c19aa6db8e37c3805307311ca17ddea372646d36
 E
 order-service/pom.xml,d\3\d3bf53ecc442740843266a635cbfe9807b992566
-7
-pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 r
 Border-service/order-dataaccess/src/main/java/org/example/Main.java,4\3\43ec2a3198aa1a98916ba41016cc3daa01930bd7
 |
@@ -74,7 +72,5 @@ iorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/O
 eorder-service/order-domain/order-domain-core/src/main/java/org/example/domain/OrderDomainService.java,2\4\24a454fb12cbec6a41ca52a7d03daa0cae6eee46
 „
 Tcommon/common-domain/src/main/java/org/example/domain/valueobject/PaymentStatus.java,f\4\f42755b244fba520cfcd5fcb82f7ba97bfb30a6e
-l
-<order-service/order-domain/order-application-service/pom.xml,7\8\788638a3f575d9e226f07937dfe43f5e87b6139f
 ‚
 Rcommon/common-domain/src/main/java/org/example/domain/valueobject/OrderStatus.java,1\f\1fe1ff3b3b7a11b60edd3e6aba85d9f1145023d5
